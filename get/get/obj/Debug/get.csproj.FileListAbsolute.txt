@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\New folder (5)\TEST2\get\get\bin\Debug\get.exe.config
+C:\Users\Administrator\Desktop\New folder (5)\TEST2\get\get\bin\Debug\get.exe
+C:\Users\Administrator\Desktop\New folder (5)\TEST2\get\get\bin\Debug\get.pdb
+C:\Users\Administrator\Desktop\New folder (5)\TEST2\get\get\obj\Debug\get.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\New folder (5)\TEST2\get\get\obj\Debug\get.Form1.resources
+C:\Users\Administrator\Desktop\New folder (5)\TEST2\get\get\obj\Debug\get.Properties.Resources.resources
+C:\Users\Administrator\Desktop\New folder (5)\TEST2\get\get\obj\Debug\get.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\New folder (5)\TEST2\get\get\obj\Debug\get.exe
+C:\Users\Administrator\Desktop\New folder (5)\TEST2\get\get\obj\Debug\get.pdb
