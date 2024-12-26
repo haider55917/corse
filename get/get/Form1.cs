@@ -21,5 +21,10 @@ namespace get
         {
             MessageBox.Show("hhhhh");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("rrrrrr");
+        }
     }
 }

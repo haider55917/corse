@@ -7,3 +7,6 @@ C:\Users\Administrator\Desktop\New folder (5)\TEST2\get\get\obj\Debug\get.Proper
 C:\Users\Administrator\Desktop\New folder (5)\TEST2\get\get\obj\Debug\get.csproj.GenerateResource.Cache
 C:\Users\Administrator\Desktop\New folder (5)\TEST2\get\get\obj\Debug\get.exe
 C:\Users\Administrator\Desktop\New folder (5)\TEST2\get\get\obj\Debug\get.pdb
+C:\Users\Administrator\Desktop\get corse\corse\get\get\bin\Debug\get.exe.config
+C:\Users\Administrator\Desktop\get corse\corse\get\get\obj\Debug\get.exe
+C:\Users\Administrator\Desktop\get corse\corse\get\get\obj\Debug\get.pdb
