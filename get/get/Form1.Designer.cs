@@ -65,7 +65,7 @@
             // 
             // button5
             // 
-            this.button5.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.button5.BackColor = System.Drawing.Color.DodgerBlue;
             this.button5.Location = new System.Drawing.Point(188, 205);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(110, 61);
