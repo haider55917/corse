@@ -34,6 +34,7 @@
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.textBox2 = new System.Windows.Forms.TextBox();
+            this.b3 = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -98,11 +99,25 @@
             this.textBox2.Size = new System.Drawing.Size(144, 28);
             this.textBox2.TabIndex = 2;
             // 
+            // b3
+            // 
+            this.b3.BackColor = System.Drawing.Color.Lime;
+            this.b3.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Red;
+            this.b3.Font = new System.Drawing.Font("Tahoma", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.b3.Location = new System.Drawing.Point(386, 377);
+            this.b3.Name = "b3";
+            this.b3.Size = new System.Drawing.Size(103, 48);
+            this.b3.TabIndex = 4;
+            this.b3.Text = "دخول";
+            this.b3.UseVisualStyleBackColor = false;
+            this.b3.Click += new System.EventHandler(this.b3_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(940, 479);
+            this.Controls.Add(this.b3);
             this.Controls.Add(this.groupBox1);
             this.Name = "Form1";
             this.Text = "Form1";
@@ -120,6 +135,7 @@
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.Button b3;
     }
 }
 

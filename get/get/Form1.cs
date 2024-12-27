@@ -29,5 +29,10 @@ namespace get
                 MessageBox.Show("worng");
             }
         }
+
+        private void b3_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("ahmr");
+        }
     }
 }
