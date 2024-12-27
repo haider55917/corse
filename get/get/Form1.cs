@@ -17,14 +17,17 @@ namespace get
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
-        {
-            MessageBox.Show("hhhhh");
-        }
+       
 
-        private void button2_Click(object sender, EventArgs e)
+        private void b1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("rrrrrr");
+            if (textBox1.Text =="haider" && textBox2 .Text == "123")
+            {
+                MessageBox.Show("hello");
+            } else
+            {
+                MessageBox.Show("worng");
+            }
         }
     }
 }
