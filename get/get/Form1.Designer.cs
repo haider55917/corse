@@ -47,7 +47,7 @@
             // 
             // b1
             // 
-            this.b1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            this.b1.BackColor = System.Drawing.Color.Silver;
             this.b1.Location = new System.Drawing.Point(91, 197);
             this.b1.Name = "b1";
             this.b1.Size = new System.Drawing.Size(103, 48);
@@ -58,7 +58,7 @@
             // 
             // groupBox1
             // 
-            this.groupBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            this.groupBox1.BackColor = System.Drawing.Color.Silver;
             this.groupBox1.Controls.Add(this.label2);
             this.groupBox1.Controls.Add(this.textBox2);
             this.groupBox1.Controls.Add(this.label1);
