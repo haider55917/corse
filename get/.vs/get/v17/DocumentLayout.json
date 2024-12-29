@@ -1,21 +1,12 @@
 {
   "Version": 1,
-<<<<<<< HEAD
-  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\get corse\\corse\\corse\\get\\",
-  "Documents": [],
-=======
-  "WorkspaceRootPath": "C:\\Users\\ASUS rog\\Desktop\\New folder (3)\\corse\\get\\",
+  "WorkspaceRootPath": "C:\\Users\\acer\\Desktop\\New folder\\corse\\get\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3E499600-6B94-4992-ACE5-9476186A7E93}|get\\get.csproj|c:\\users\\asus rog\\desktop\\new folder (3)\\corse\\get\\get\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3E499600-6B94-4992-ACE5-9476186A7E93}|get\\get.csproj|c:\\users\\acer\\desktop\\new folder\\corse\\get\\get\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3E499600-6B94-4992-ACE5-9476186A7E93}|get\\get.csproj|solutionrelative:get\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E499600-6B94-4992-ACE5-9476186A7E93}|get\\get.csproj|c:\\users\\asus rog\\desktop\\new folder (3)\\corse\\get\\get\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E499600-6B94-4992-ACE5-9476186A7E93}|get\\get.csproj|solutionrelative:get\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
->>>>>>> cf10929371130fffbb7b013f68f00db17eadae17
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -23,40 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-<<<<<<< HEAD
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-=======
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS rog\\Desktop\\New folder (3)\\corse\\get\\get\\Form1.cs",
-              "RelativeDocumentMoniker": "get\\Form1.cs",
-              "ToolTip": "C:\\Users\\ASUS rog\\Desktop\\New folder (3)\\corse\\get\\get\\Form1.cs*",
-              "RelativeToolTip": "get\\Form1.cs*",
-              "ViewState": "AgIAABQAAAAAAAAAAAAawCcAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-29T08:55:03.688Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ASUS rog\\Desktop\\New folder (3)\\corse\\get\\get\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\New folder\\corse\\get\\get\\Form1.cs",
               "RelativeDocumentMoniker": "get\\Form1.cs",
-              "ToolTip": "C:\\Users\\ASUS rog\\Desktop\\New folder (3)\\corse\\get\\get\\Form1.cs [Design]*",
-              "RelativeToolTip": "get\\Form1.cs [Design]*",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\New folder\\corse\\get\\get\\Form1.cs [Design]",
+              "RelativeToolTip": "get\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-29T08:26:22.633Z",
+              "WhenOpened": "2024-12-29T11:10:53.39Z",
               "EditorCaption": " [Design]"
->>>>>>> cf10929371130fffbb7b013f68f00db17eadae17
             }
           ]
         }
