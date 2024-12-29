@@ -120,7 +120,7 @@
             this.b3.BackColor = System.Drawing.Color.LightGreen;
             this.b3.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Red;
             this.b3.Font = new System.Drawing.Font("Tahoma", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.b3.Location = new System.Drawing.Point(624, 185);
+            this.b3.Location = new System.Drawing.Point(624, 638);
             this.b3.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.b3.Name = "b3";
             this.b3.Size = new System.Drawing.Size(154, 74);
