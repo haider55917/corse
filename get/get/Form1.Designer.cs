@@ -40,7 +40,7 @@
             // 
             // b1
             // 
-            this.b1.BackColor = System.Drawing.Color.Gray;
+            this.b1.BackColor = System.Drawing.Color.Maroon;
             this.b1.Location = new System.Drawing.Point(102, 212);
             this.b1.Name = "b1";
             this.b1.Size = new System.Drawing.Size(103, 48);
