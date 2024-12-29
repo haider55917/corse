@@ -186,7 +186,7 @@
             // button4
             // 
             this.button4.BackColor = System.Drawing.Color.Silver;
-            this.button4.Location = new System.Drawing.Point(873, 529);
+            this.button4.Location = new System.Drawing.Point(118, 557);
             this.button4.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(154, 74);
