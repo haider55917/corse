@@ -40,7 +40,7 @@
             // 
             // b1
             // 
-            this.b1.BackColor = System.Drawing.Color.Maroon;
+            this.b1.BackColor = System.Drawing.Color.Yellow;
             this.b1.Location = new System.Drawing.Point(102, 212);
             this.b1.Name = "b1";
             this.b1.Size = new System.Drawing.Size(103, 48);
@@ -51,7 +51,7 @@
             // 
             // groupBox1
             // 
-            this.groupBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.groupBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
             this.groupBox1.Controls.Add(this.label2);
             this.groupBox1.Controls.Add(this.textBox2);
             this.groupBox1.Controls.Add(this.label1);
