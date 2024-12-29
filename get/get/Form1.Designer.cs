@@ -48,7 +48,11 @@
             // b1
             // 
 <<<<<<< HEAD
+<<<<<<< HEAD
             this.b1.BackColor = System.Drawing.Color.Maroon;
+=======
+            this.b1.BackColor = System.Drawing.Color.Yellow;
+>>>>>>> 03f6336433bfe24495018a2f1ff800e404479222
             this.b1.Location = new System.Drawing.Point(102, 212);
 =======
             this.b1.BackColor = System.Drawing.Color.Gray;
@@ -64,7 +68,7 @@
             // 
             // groupBox1
             // 
-            this.groupBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.groupBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
             this.groupBox1.Controls.Add(this.label2);
             this.groupBox1.Controls.Add(this.textBox2);
             this.groupBox1.Controls.Add(this.label1);
