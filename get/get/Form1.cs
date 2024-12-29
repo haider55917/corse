@@ -34,5 +34,17 @@ namespace get
         {
             MessageBox.Show("ahmr");
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if (textBox4.Text == "saad" && textBox3.Text == "123")
+            {
+                MessageBox.Show("hello");
+            }
+            else
+            {
+                MessageBox.Show("worng");
+            }
+        }
     }
 }
