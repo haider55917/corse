@@ -34,15 +34,12 @@
             this.textBox2 = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.textBox1 = new System.Windows.Forms.TextBox();
-            this.b3 = new System.Windows.Forms.Button();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.label3 = new System.Windows.Forms.Label();
             this.textBox3 = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
             this.textBox4 = new System.Windows.Forms.TextBox();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
             this.button4 = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
@@ -117,20 +114,6 @@
             this.textBox1.Size = new System.Drawing.Size(214, 41);
             this.textBox1.TabIndex = 0;
             // 
-            // b3
-            // 
-            this.b3.BackColor = System.Drawing.Color.LightGreen;
-            this.b3.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Red;
-            this.b3.Font = new System.Drawing.Font("Tahoma", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.b3.Location = new System.Drawing.Point(624, 185);
-            this.b3.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.b3.Name = "b3";
-            this.b3.Size = new System.Drawing.Size(154, 74);
-            this.b3.TabIndex = 4;
-            this.b3.Text = "دخول";
-            this.b3.UseVisualStyleBackColor = false;
-            this.b3.Click += new System.EventHandler(this.b3_Click);
-            // 
             // groupBox2
             // 
             this.groupBox2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
@@ -200,28 +183,6 @@
             this.textBox4.Size = new System.Drawing.Size(214, 41);
             this.textBox4.TabIndex = 0;
             // 
-            // button2
-            // 
-            this.button2.BackColor = System.Drawing.Color.Red;
-            this.button2.Location = new System.Drawing.Point(624, 269);
-            this.button2.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(154, 74);
-            this.button2.TabIndex = 5;
-            this.button2.Text = "دخول";
-            this.button2.UseVisualStyleBackColor = false;
-            // 
-            // button3
-            // 
-            this.button3.BackColor = System.Drawing.Color.Silver;
-            this.button3.Location = new System.Drawing.Point(624, 101);
-            this.button3.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(154, 74);
-            this.button3.TabIndex = 6;
-            this.button3.Text = "دخول";
-            this.button3.UseVisualStyleBackColor = false;
-            // 
             // button4
             // 
             this.button4.BackColor = System.Drawing.Color.Silver;
@@ -239,10 +200,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1370, 737);
             this.Controls.Add(this.button4);
-            this.Controls.Add(this.button3);
-            this.Controls.Add(this.button2);
             this.Controls.Add(this.groupBox2);
-            this.Controls.Add(this.b3);
             this.Controls.Add(this.groupBox1);
             this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "Form1";
@@ -263,15 +221,12 @@
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.TextBox textBox2;
-        private System.Windows.Forms.Button b3;
         private System.Windows.Forms.GroupBox groupBox2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.TextBox textBox3;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.TextBox textBox4;
-        private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Button button4;
     }
 }
