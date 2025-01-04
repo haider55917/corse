@@ -19,3 +19,6 @@ C:\Users\Administrator\Desktop\get corse\corse\corse\get\get\obj\Debug\get.cspro
 C:\Users\Administrator\Desktop\get corse\corse\corse\get\get\obj\Debug\get.Form1.resources
 C:\Users\Administrator\Desktop\get corse\corse\corse\get\get\obj\Debug\get.Properties.Resources.resources
 C:\Users\Administrator\Desktop\get corse\corse\corse\get\get\obj\Debug\get.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\del\corse\get\get\bin\Debug\get.exe.config
+C:\Users\Administrator\Desktop\del\corse\get\get\obj\Debug\get.exe
+C:\Users\Administrator\Desktop\del\corse\get\get\obj\Debug\get.pdb
