@@ -42,6 +42,7 @@
             this.button1 = new System.Windows.Forms.Button();
             this.textBox4 = new System.Windows.Forms.TextBox();
             this.button4 = new System.Windows.Forms.Button();
+            this.button3 = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.SuspendLayout();
@@ -60,7 +61,6 @@
             // groupBox1
             // 
             this.groupBox1.BackColor = System.Drawing.Color.Silver;
-            this.groupBox1.Controls.Add(this.button2);
             this.groupBox1.Controls.Add(this.label2);
             this.groupBox1.Controls.Add(this.textBox2);
             this.groupBox1.Controls.Add(this.label1);
@@ -75,8 +75,8 @@
             // 
             // button2
             // 
-            this.button2.BackColor = System.Drawing.Color.Red;
-            this.button2.Location = new System.Drawing.Point(91, 142);
+            this.button2.BackColor = System.Drawing.Color.Yellow;
+            this.button2.Location = new System.Drawing.Point(192, 362);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(103, 48);
             this.button2.TabIndex = 4;
@@ -183,7 +183,7 @@
             // 
             // button4
             // 
-            this.button4.BackColor = System.Drawing.Color.Silver;
+            this.button4.BackColor = System.Drawing.Color.Yellow;
             this.button4.Location = new System.Drawing.Point(79, 362);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(103, 48);
@@ -191,11 +191,23 @@
             this.button4.Text = "دخول";
             this.button4.UseVisualStyleBackColor = false;
             // 
+            // button3
+            // 
+            this.button3.BackColor = System.Drawing.Color.Yellow;
+            this.button3.Location = new System.Drawing.Point(301, 362);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(103, 48);
+            this.button3.TabIndex = 8;
+            this.button3.Text = "دخول";
+            this.button3.UseVisualStyleBackColor = false;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(913, 479);
+            this.Controls.Add(this.button3);
+            this.Controls.Add(this.button2);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
@@ -225,6 +237,7 @@
         private System.Windows.Forms.TextBox textBox4;
         private System.Windows.Forms.Button button4;
         private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button button3;
     }
 }
 
